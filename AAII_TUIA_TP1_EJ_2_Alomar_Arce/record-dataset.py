@@ -101,3 +101,4 @@ cv2.destroyAllWindows()
 print("Datos cargados:")
 print("X:",X)
 print("Y:",Y)
+
