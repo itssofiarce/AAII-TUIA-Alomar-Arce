@@ -49,14 +49,47 @@ Al correr *record-dataset.py* se abrirá una ventana, donde se deberá colocar l
 En la terminal se ven las letras que se deben presionar para tomar las capturas y ya separarlas para el armado del dataset.
 <br>
 
-![Ejemplo](media/image-1.png)
+![mano](media/image-1.png)
 
 
 ### Entrenamiento del modelo:
 
 Una vez cargado el dataset. Se debe entrenar el modelo, correr *train-gesture-classifier.py*.
 
+Comenzará el entrenamiento.
+![train](media/image-2.png)
+<br>
 
+Al terminar verás gráficos del entrenamiento: 
+![alt text](media/iimage-3.png)
+
+<br>
+
+y el modelo guardado.
+![alt text](media/image-4.png)
+
+
+### Clasificación:
+
+Para usarlo, correr *rock-paper-scissors.py*
+
+En la terminal se verá una breve descripción del modelo.
+
+<br>
+
+![alt text](media/image-9.png)
+
+Se abrirá la cámara y el modelo clasifica los gestos en tiempo real. 
+
+<br>
+
+![alt text](media/image-5.png)
+
+![alt text](media/image-6.png)
+
+![alt text](media/image-7.png)
+
+![alt text](media/image-8.png)
 
 
 ## Ejercicio 3 - Modelo de clasificación de imagenes de paisajes. 

@@ -55,8 +55,8 @@ def augment_landmarks(landmarks):
 
 # Cargar los datos de puntos clave y etiquetas desde archivos .npy
 # X contiene las coordenadas x e y de los puntos clave, Y contiene las etiquetas (piedra, papel, tijeras)
-X = np.load('mi_dataset_X.npy')  # Puntos clave (coordenadas x e y)
-Y = np.load('mi_dataset_Y.npy')  # Etiquetas (0: piedra, 1: papel, 2: tijeras)
+X = np.load('AAII-TUIA-Alomar-Arce\AAII_TUIA_TP1_EJ_2_Alomar_Arce\mi_dataset_X.npy')  # Puntos clave (coordenadas x e y)
+Y = np.load('AAII-TUIA-Alomar-Arce\AAII_TUIA_TP1_EJ_2_Alomar_Arce\mi_dataset_Y.npy')  # Etiquetas (0: piedra, 1: papel, 2: tijeras)
 
 # Verificar las dimensiones de los datos cargados para asegurar que se cargaron correctamente.
 print("Datos cargados:")
