@@ -4,7 +4,7 @@ import mediapipe as mp
 import tensorflow as tf
 
 # Cargar el modelo desde el archivo .h5
-model = tf.keras.models.load_model('mi_modelo.h5')
+model = tf.keras.models.load_model('AAII-TUIA-Alomar-Arce\AAII_TUIA_TP1_EJ_2_Alomar_Arce\mi_modelo.h5')
 
 # Mostrar un resumen del modelo para verificar que se ha cargado correctamente
 model.summary()
