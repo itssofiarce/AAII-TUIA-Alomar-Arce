@@ -42,7 +42,7 @@ python -m pip install -r .\requirements.txt
 Al correr *record-dataset.py* se abrirá una ventana, donde se deberá colocar la mano con las diferentes señas (Piedra, Papel, Tijera):
 <br>
 
-![comandos](media/image.png)
+![alt text](image.png)
 
 <br>
 
@@ -61,7 +61,7 @@ Comenzará el entrenamiento.
 <br>
 
 Al terminar verás gráficos del entrenamiento: 
-![alt text](media/iimage-3.png)
+![alt text](media/image-3.png)
 
 <br>
 
