@@ -93,6 +93,9 @@ Se abrirá la cámara y el modelo clasifica los gestos en tiempo real.
 
 
 ## Ejercicio 3 - Modelo de clasificación de imagenes de paisajes. 
+
+Comparación entre modelos con arquitecturas de capas densas vs. solamente capas convolucionales vs. bloques residuales vs. transfer learning para clasificar imagenes en las siguientes categorías: 
+
 - edificios
 - bosques
 - glaciares
