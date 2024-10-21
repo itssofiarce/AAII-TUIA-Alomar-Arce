@@ -38,6 +38,10 @@ pip install -r requirements.txt
 python -m pip install -r .\requirements.txt 
 ```
 
+## Para correr directamente el modelo ya entrenado: 
+correr *rock-paper-scissors.py*
+
+
 ### Creación del dataset:
 Al correr *record-dataset.py* se abrirá una ventana, donde se deberá colocar la mano con las diferentes señas (Piedra, Papel, Tijera):
 <br>
