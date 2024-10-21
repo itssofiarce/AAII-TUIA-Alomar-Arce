@@ -37,11 +37,18 @@ pip install -r requirements.txt
 python -m pip install -r .\requirements.txt 
 
 ### Creación del dataset:
-Al correr *record-dataset.py* se abrirá una ventana, donde se deberá colocar la mano con las diferentes señas (Piedra, Papel, Tijera)
-![Ejemplo](media/image-1.png)
+Al correr *record-dataset.py* se abrirá una ventana, donde se deberá colocar la mano con las diferentes señas (Piedra, Papel, Tijera):
+<br>
+
+![comandos](media/image.png)
+
+<br>
 
 En la terminal se ven las letras que se deben presionar para tomar las capturas y ya separarlas para el armado del dataset.
-![comandos](media/image.png)
+<br>
+
+![Ejemplo](media/image-1.png)
+
 
 ### Entrenamiento del modelo:
 
