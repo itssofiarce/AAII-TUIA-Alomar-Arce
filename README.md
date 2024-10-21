@@ -34,7 +34,9 @@ pip install -r requirements.txt
 ### Instalar dependencias:
 
 #### En Windows:
+``` bash
 python -m pip install -r .\requirements.txt 
+```
 
 ### Creación del dataset:
 Al correr *record-dataset.py* se abrirá una ventana, donde se deberá colocar la mano con las diferentes señas (Piedra, Papel, Tijera):
@@ -51,6 +53,11 @@ En la terminal se ven las letras que se deben presionar para tomar las capturas 
 
 
 ### Entrenamiento del modelo:
+
+Una vez cargado el dataset. Se debe entrenar el modelo, correr *train-gesture-classifier.py*.
+
+
+
 
 ## Ejercicio 3 - Modelo de clasificación de imagenes de paisajes. 
 - edificios
